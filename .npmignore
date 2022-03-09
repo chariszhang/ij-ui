@@ -1,0 +1,6 @@
+src/
+packages/
+public/
+
+vite.config.js
+index.html
