@@ -4,9 +4,9 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/chariszhang/ij-ui.git"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "zc"
   },
